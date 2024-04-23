@@ -181,14 +181,74 @@ body{
     width: 100%;
 }
 .item-1{
-    height: 500px;
+    height: 200px;
     background-color: darkred;
 }
 .item-2{
-    height: 400px;
+    height: 200px;
     background-color: darkgreen;
 }
 .item-3{
-    height: 300px;
+    height: 200px;
     background-color: blueviolet;
+}
+.item-4{
+    height: 200px;
+    background-color: aqua;
+}
+.item-5{
+    height: 200px;
+    background-color: black;
+}
+.item-6{
+    height: 200px;
+    background-color: greenyellow;
+}
+.item-7{
+    height: 200px;
+    background-color: deepskyblue;
+}
+.item-8{
+    height: 200px;
+    background-color: darkgoldenrod;
+}
+.item-9{
+    height: 200px;
+    background-color: sienna;
+}
+.item-10{
+    height: 200px;
+    background-color: mediumblue;
+}
+.item-11{
+    height: 200px;
+    background-color: lawngreen;
+}
+.item-12{
+    height: 200px;
+    background-color: forestgreen;
+}
+.item-13{
+    height: 200px;
+    background-color: darkorange;
+}
+.item-14{
+    height: 200px;
+    background-color: darkslategray;
+}
+.item-15{
+    height: 200px;
+    background-color: tomato;
+}
+.item-16{
+    height: 200px;
+    background-color: greenyellow;
+}
+.item-17{
+    height: 200px;
+    background-color:chocolate ;
+}
+.item-18{
+    height: 200px;
+    background-color: darkorchid;
 }
